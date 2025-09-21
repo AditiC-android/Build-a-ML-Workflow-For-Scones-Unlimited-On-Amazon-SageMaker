@@ -1,0 +1,1 @@
+In the fourth project I used AWS Sagemaker, AWS Lambda, AWS Step, and AWS S3 to create an end-to-end ML workflow, to gain understanding and experience on the projects and tasks that Machine Learning Engineers do in the current field. 
